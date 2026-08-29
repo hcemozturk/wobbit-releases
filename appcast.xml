@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Wobbit</title>
         <item>
-            <title>0.9.1</title>
-            <pubDate>Sat, 29 Aug 2026 16:31:16 +0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="3Xd6vpTMcGyu3fpusUlcVcjU2avPfLxnzLv67AvZxdXGsEkH/n4RmmALBQVlfIWpM8C1fHAlIiqN0tElLMNZDA==" sparkle:length="312">https://raw.githubusercontent.com/hcemozturk/wobbit-releases/main/releases/Wobbit.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hcemozturk/wobbit-releases/releases/download/v0.9.1/Wobbit.zip" length="10697110" type="application/octet-stream" sparkle:edSignature="WFPOIO7tGvxg5hUq4HaKa0XMgCG/YWOjkZh/ZQYhwcUzJ46OwF9aH8XyTyielZ+wJVvqUZZUHtqFst/qGeNCDQ=="></enclosure>
+            <title>0.9.2</title>
+            <pubDate>Sat, 29 Aug 2026 17:31:29 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="gHT+vwxBD7EoVtrGP/6CpB/17DYPw5A13PFdA9wP3i4aLyJwy+ydSSCilGhfY8hNs8MKX8C7bmpLrlwCh0zVDg==" sparkle:length="285">https://raw.githubusercontent.com/hcemozturk/wobbit-releases/main/releases/Wobbit.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hcemozturk/wobbit-releases/releases/download/v0.9.2/Wobbit.zip" length="10686986" type="application/octet-stream" sparkle:edSignature="9lM4rYkmT6gRurMyMTUCL7z1u6EBBukx2OU9ATtWqWwZ6KtQBuCJFtqyTuOMXEZumiQR7guVzTXNCPLQ+2MXDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 79jfkfM7qMJN5NLZ7g9Z4XjKVfPyYUS7r0/wgtx93frzs+/WVkgE6mmoN9o5pS5KnFW54hUYo4VnHGkTqrIcDA==
+edSignature: HrF10SbHjgphJ/PXawzloPfxDKreFHSUBvp92NBtKEHxlAFp9bGKxI+oOUq1U1XnQNXnQeWGXEKsuzDiWjKADw==
 length: 1323
 -->
