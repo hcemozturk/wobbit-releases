@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Wobbit Updates</title>
-    <link>https://github.com/hcemozturk/wobbit-releases/releases</link>
-    <description>Signed updates for Wobbit.</description>
-    <language>en</language>
-  </channel>
-</rss>
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Wobbit</title>
+        <item>
+            <title>0.9.0</title>
+            <pubDate>Sat, 29 Aug 2026 16:15:02 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="OuRhh5d3J9sfZ9Usane3le1KfFnv+oAD5RICD93S/xmr2YToQ2ue9PIl1bMMWl+Prfk4xEZxHiv5+7UubnwUBA==" sparkle:length="352">https://raw.githubusercontent.com/hcemozturk/wobbit-releases/main/releases/Wobbit.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hcemozturk/wobbit-releases/releases/download/v0.9.0/Wobbit.zip" length="10686266" type="application/octet-stream" sparkle:edSignature="9a9qzwO0ANUsD1jBeFeH4P0CGNoNNIrNk4TqCwcRWbgmVYKZoAo1psxk+X4Fh+P0lw9RtGxAwT436IynGCR8Bw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: EAmxKr+6PllM9laB0YhUD7PfyJUPjeOf5lv2t8eBqQ5vbatt/uDNTn5T8L5T5SD8ObS+WfKityUuOL941paRDw==
+length: 1323
+-->
