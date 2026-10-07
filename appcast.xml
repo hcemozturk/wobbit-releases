@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Wobbit</title>
         <item>
-            <title>0.9.5</title>
-            <pubDate>Wed, 02 Sep 2026 17:29:36 +0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <title>0.9.6</title>
+            <pubDate>Wed, 07 Oct 2026 12:28:24 +0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="rMCROrOG7uXx9AURZoUU5GgWn4xTm02NTRWNyVuDe/jfRTWNPE4758oI4MC7hxzPa1PLHW0m2B9PKlsMWHvNAw==" sparkle:length="919">https://raw.githubusercontent.com/hcemozturk/wobbit-releases/main/releases/Wobbit.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/hcemozturk/wobbit-releases/releases/download/v0.9.5/Wobbit.zip" length="12026037" type="application/octet-stream" sparkle:edSignature="zGhL93hqSFX+LZ37f0dWHoRbF3ki07ovYXe40Xwx0n7FLiq3mkOR4w/SEnjy8wqLfI2E+OB3KDtnh5jBgomeCw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="kSNgo4obXUvEK157SyzfxxhngnQl+CjT/yHbwLlfDLSf5txrP+3s+EZaWQ/h5+x1DkywFKPAfYlUZ4dDzGkyAA==" sparkle:length="946">https://raw.githubusercontent.com/hcemozturk/wobbit-releases/main/releases/Wobbit.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/hcemozturk/wobbit-releases/releases/download/v0.9.6/Wobbit.zip" length="34532633" type="application/octet-stream" sparkle:edSignature="oJOpKKHwUCIe1pQZ6y++/VZZ2KoMT/aD2l9fHA3HRGrl1kmNfdKrao3nCQ54J+R2KxrAihsrWo1FNDtBp6wnDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tozgY3H4QGWtmC+7H/xcxFJ+7wJuE5xunY1e1W4NDGxKiLwQu151i+6GpbimEB0Jz3KuOjncWMF9MdXCAag7Bg==
+edSignature: JoFhNEBeVejnHYKu/ZfkWd2C67DahK9A54Pf+vXvKXCaFqyywx1b8hq2dRMg5rCDgskPx9UWgHlI4AxYaY1ACg==
 length: 1323
 -->
